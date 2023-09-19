@@ -404,5 +404,6 @@ Your mark will be determined according to the following rubric:
 > **Notes:** 
 > - your submission will be marked 'as is' according to the rubric using the same Codio set up as your project. It is your responsibility to check that your submission runs on Codio as you expect it.
 > - if you do not provide commits for longer than four weeks, it counts as two gaps
-#   c h e s s p r o j e c t  
+#   c h e s s p r o j e c t 
+ 
  
